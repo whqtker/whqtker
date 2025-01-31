@@ -71,9 +71,6 @@
 ## 📈 GitHub 통계
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whqtker&show_icons=true&theme=radical)
-![sd]("https://github-readme-stats.vercel.app/api/top-langs/?username=whqtker&theme=dark&langs_count=8&show_icons=true&count_private=true&layout=compact")
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhqtker&count_bg=%23729A53&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whqtker&layout=compact&theme=dracula)
 
-<--
-tech stack icon: https://github.com/Ileriayo/markdown-badges
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhqtker&count_bg=%23729A53&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
