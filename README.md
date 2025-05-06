@@ -4,6 +4,10 @@
 - I’m **Seonghyeok Cho**, a student developer.
 - My goal is being a Data Engineer, Backend Engineer, and DBA.
 
+[résumé](https://docs.google.com/document/d/1nYPctM-Rkdnt90Lou91FCZ4DBpHcz8DE2YO8M0LP484/edit?usp=sharing)
+[portfolio](https://docs.google.com/document/d/1D8TDZsepCo4Heqmyf4pBHmgxINFfeMwEZzJusZE6PEk/edit?usp=sharing)
+[blog](https://whqtker.github.io/)
+
 ## 🚀 Tech Stack
 
 ### Languages
@@ -73,8 +77,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chosh2001)](https://solved.ac/chosh2001/)
 
 ## 💬 Contact
-
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://whqkter.tistory.com/)
 
 ## 📈 GitHub 통계
 
