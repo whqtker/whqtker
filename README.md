@@ -5,7 +5,9 @@
 - My goal is being a Data Engineer, Backend Engineer, and DBA.
 
 [résumé](https://docs.google.com/document/d/1nYPctM-Rkdnt90Lou91FCZ4DBpHcz8DE2YO8M0LP484/edit?usp=sharing)
+
 [portfolio](https://docs.google.com/document/d/1D8TDZsepCo4Heqmyf4pBHmgxINFfeMwEZzJusZE6PEk/edit?usp=sharing)
+
 [blog](https://whqtker.github.io/)
 
 ## 🚀 Tech Stack
