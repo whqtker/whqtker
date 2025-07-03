@@ -31,7 +31,7 @@
 
 - 멋쟁이사자처럼 백엔드 부트캠프 플러스 3기 (24.12 - 25.03)
 - Inha University B.S. in Computer Science & Engineering (20.03 - present)
-- Daesung High School(Seoul) (20.03 - 20.02)
+- Daesung High School(Seoul) (17.03 - 20.02)
 
 ## 🔥 Problem Solving
 
