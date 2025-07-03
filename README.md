@@ -1,69 +1,27 @@
-# Hi, there! 👋
+## Hi, there! 👋
 
-> Grateful for the Great Unknown!
-- I’m **Seonghyeok Cho**, a student developer.
-- My goal is being a Data Engineer, Backend Engineer, and DBA.
+- backend engineer, data engineer, database administrator
+- interested in backend/data engineering, databases, algorithms, mathematics
 
-[résumé](https://docs.google.com/document/d/1nYPctM-Rkdnt90Lou91FCZ4DBpHcz8DE2YO8M0LP484/edit?usp=sharing)
-
-[portfolio](https://docs.google.com/document/d/1D8TDZsepCo4Heqmyf4pBHmgxINFfeMwEZzJusZE6PEk/edit?usp=sharing)
-
-[blog](https://whqtker.github.io/)
+[![Résumé](https://img.shields.io/badge/Résumé-View-blue?logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1nYPctM-Rkdnt90Lou91FCZ4DBpHcz8DE2YO8M0LP484/edit?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1D8TDZsepCo4Heqmyf4pBHmgxINFfeMwEZzJusZE6PEk/edit?usp=sharing)
+[![Blog](https://img.shields.io/badge/Blog-GitHub-181717?logo=github&logoColor=white)](https://whqtker.github.io/)
 
 ## 🚀 Tech Stack
 
-### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-### Databases & ORM
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-FF6F00?style=flat&logo=java&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
 
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frameworks
-
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### ML/DL
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### IDEs & Editors
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-## 🪴 What I am learning
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-## 🌱 What I want to learn
-
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ## 🏅 Award
 
@@ -71,8 +29,9 @@
 
 ## 🎓 Education
 
-- 2020 ~ present: Inha University B.S. in Computer Science & Engineering
-- 2017 ~ 2020: Daesung High School(Seoul)
+- 멋쟁이사자처럼 백엔드 부트캠프 플러스 3기 (24.12 - 25.03)
+- Inha University B.S. in Computer Science & Engineering (20.03 - present)
+- Daesung High School(Seoul) (20.03 - 20.02)
 
 ## 🔥 Problem Solving
 
@@ -80,9 +39,9 @@
 
 ## 💬 Contact
 
-## 📈 GitHub 통계
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whqtker/)
+
+## 📈 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whqtker&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whqtker&layout=compact&theme=dracula)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhqtker&count_bg=%23729A53&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
