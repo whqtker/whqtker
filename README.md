@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-FF6F00?style=flat&logo=java&logoColor=white)
