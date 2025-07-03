@@ -23,10 +23,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-## 🏅 Award
-
-- **3rd** Place in 2024 Project Marathon(GDG)
-
 ## 🎓 Education
 
 - 멋쟁이사자처럼 백엔드 부트캠프 플러스 3기 (24.12 - 25.03)
