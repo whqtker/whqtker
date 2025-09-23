@@ -3,8 +3,6 @@
 - backend engineer, data engineer, database administrator
 - interested in backend/data engineering, databases, algorithms, mathematics
 
-[![Résumé](https://img.shields.io/badge/Résumé-View-blue?logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1nYPctM-Rkdnt90Lou91FCZ4DBpHcz8DE2YO8M0LP484/edit?usp=sharing)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1D8TDZsepCo4Heqmyf4pBHmgxINFfeMwEZzJusZE6PEk/edit?usp=sharing)
 [![Blog](https://img.shields.io/badge/Blog-GitHub-181717?logo=github&logoColor=white)](https://whqtker.github.io/)
 
 ## 🚀 Tech Stack
