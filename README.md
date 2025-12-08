@@ -1,11 +1,11 @@
-## Hi, there! 👋
+backend engineer, data engineer, database administrator
 
-- backend engineer, data engineer, database administrator
-- interested in backend/data engineering, databases, algorithms, mathematics
+interested in backend/data engineering, databases, algorithms, mathematics
 
 [![Blog](https://img.shields.io/badge/Blog-GitHub-181717?logo=github&logoColor=white)](https://whqtker.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whqtker/)
 
-## 🚀 Tech Stack
+---
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -20,17 +20,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-
-## 🎓 Education
-
-- 멋쟁이사자처럼 백엔드 부트캠프 플러스 3기 (24.12 - 25.03)
-- Inha University B.S. in Computer Science & Engineering (20.03 - present)
-- Daesung High School(Seoul) (17.03 - 20.02)
-
-## 🔥 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chosh2001)](https://solved.ac/chosh2001/)
-
-## 💬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whqtker/)
