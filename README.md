@@ -3,6 +3,7 @@ backend engineer, data engineer, database administrator
 interested in backend/data engineering, databases, algorithms, mathematics
 
 [![Blog](https://img.shields.io/badge/Blog-GitHub-181717?logo=github&logoColor=white)](https://whqtker.github.io/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@whqtker/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whqtker/)
 
 ---
